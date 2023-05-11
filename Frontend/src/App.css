@@ -1,0 +1,8 @@
+.ul_id {
+  display: flex;
+
+}
+
+.ul_id li {
+  margin: 30px;
+}
